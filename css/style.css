@@ -157,7 +157,7 @@ margin: 0.5em;}
 
 .right_section{
     width:50%;
-    background: url("/image3.PNG");
+    background: url("image3.PNG");
     background-repeat: no-repeat;
     background-size: 100%;
     background-position:10% 5%}
